@@ -2,7 +2,7 @@
   "name": "Weather",
   "short_name": "Weather",
   "description": "A minimal, monochrome weather app with live 3D conditions, air quality, UV, and hazard alerts.",
-  "start_url": "./weather.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
